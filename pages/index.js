@@ -10,7 +10,7 @@ function Home() {
         <p>Onde nos demos bom dia com sorrisos (:</p>
     </h1>
     <h2>Jorge Lima</h2>
-    <img src="../images/Sauron-pancakes.jpg" alt="sauron"/>
+    <img src="../images/Sauron-pancakes.png" alt="sauron"/>
         </div>
     )
 }
