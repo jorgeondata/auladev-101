@@ -10,9 +10,9 @@ function Home() {
         <p>Onde nos demos bom dia com sorrisos (:</p>
     </h1>
     <h2>Jorge Lima</h2>
-    <img src="images/Sauron pancakes.jpg"></img>
+    <img src="../images/Sauron-pancakes.jpg" alt="sauron"/>
         </div>
     )
 }
 
-export default Home;git
+export default Home;
